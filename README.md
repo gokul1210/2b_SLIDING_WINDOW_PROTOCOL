@@ -1,4 +1,4 @@
-![Screenshot 2025-04-29 203657](https://github.com/user-attachments/assets/9a520f35-0cac-4268-ac7e-a94b17ea7c0f)![Screenshot 2025-04-29 203647](https://github.com/user-attachments/assets/5a6668e7-cdb3-4b2b-83a9-6d8396de60c4)# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 ## ALGORITHM:
 1. Start the program.
